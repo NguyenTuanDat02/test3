@@ -1,0 +1,9 @@
+C:\Users\ADMIN\OneDrive\Máy tính\QuanLyChiTieu\DAO\bin\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\QuanLyChiTieu\DAO\bin\Debug\DAO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\QuanLyChiTieu\DAO\bin\Debug\DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\QuanLyChiTieu\DAO\bin\Debug\DTO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\QuanLyChiTieu\DAO\obj\Debug\DAO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\QuanLyChiTieu\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\QuanLyChiTieu\DAO\obj\Debug\DAO.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Máy tính\QuanLyChiTieu\DAO\obj\Debug\DAO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\QuanLyChiTieu\DAO\obj\Debug\DAO.pdb
